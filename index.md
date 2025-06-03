@@ -40,3 +40,6 @@ title: "CV"
 
 - **Flight Search App** – Built using Flask + PostgreSQL + Kiwi API  
 - **IoT Sensor Logger** – Developed a Garmin app that logs real-time sensor data
+
+<link rel="stylesheet" href="/assets/style.css">
+
