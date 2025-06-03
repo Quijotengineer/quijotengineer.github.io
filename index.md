@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Inigo Monreal CV
+title: ""
 ---
 
 # Inigo Monreal Urcelay
@@ -8,7 +8,7 @@ title: Inigo Monreal CV
 📍 Lausanne, CH  
 📧 [inigo.monreal@bath.edu](mailto:inigo.monreal@bath.edu)  
 🔗 [LinkedIn](https://linkedin.com/in/inigo-monreal-urcelay)  
-💻 [GitHub](https://github.com/quijotengineer)  
+💻 [GitHub](https://github.com/quijotengineer)
 
 ---
 
