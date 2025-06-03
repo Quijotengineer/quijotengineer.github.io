@@ -1,2 +1,8 @@
-title: Inigo Monreal's CV
+title: "Quijotengineer CV"
+author: "Quijotengineer"
+email: "quijot@engineer.com"
+description: "Curriculum Vitae of Quijotengineer"
 theme: minima
+markdown: kramdown
+sass:
+  style: compressed
