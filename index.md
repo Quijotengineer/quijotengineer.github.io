@@ -1,8 +1,3 @@
----
-layout: home
-title: Inigo Monreal CV
----
-
 # Inigo Monreal Urcelay
 
 📍 Lausanne, CH  
