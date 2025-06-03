@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Inigo Monreal CV"
+title: Inigo Monreal CV
 ---
 
 # Inigo Monreal Urcelay
